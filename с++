@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Спільний C++ проєкт через GitHub!" << std::endl;
+    return 0;
+}
